@@ -1,0 +1,42 @@
+h1{margin: 0 auto;
+    background-color: #DDDDDD;
+    width:500px;
+    font-size:18px;
+    border-left:4px solid red;
+    padding-left:15px;
+    padding-top:4px;
+    padding-bottom:4px;
+    
+    
+    
+}
+
+form{margin:0 auto;
+    background-color: #EEEEEE;
+    width:500px;
+    border:1px solid #BBBBBB;
+    padding-top:4px;
+    padding-left:15px;
+    padding-bottom: 0px;
+    font-family:MS Sans Serif;
+    border-radius: 10px;
+    margin-top:20px;
+    
+}
+
+.name{
+    padding-bottom: 20px;
+}
+
+.mail{
+    padding-bottom: 20px;
+    
+}
+
+.age{
+     padding-bottom: 20px;
+}
+
+.coment{
+    padding-bottom: 20px;
+}
